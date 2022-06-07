@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.paypal.me/eliotmasset"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github soundZone"/>
+<a href="https://www.paypal.me/eliotmasset"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github 2048"/>
 </a>
 </p>
 
@@ -82,9 +82,9 @@ Developpé en France 🇫🇷 !
 </h1>
 
 <p align="center">
-    <a href="https://github.com/eliotmasset/soundZone/issues/new/choose">Report a Bug</a>
+    <a href="https://github.com/eliotmasset/2048/issues/new/choose">Report a Bug</a>
     ·
-    <a href="https://github.com/eliotmasset/soundZone/issues/new/choose">Ask a feature</a>
+    <a href="https://github.com/eliotmasset/2048/issues/new/choose">Ask a feature</a>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ Developpé en France 🇫🇷 !
 </p>
 
 <p align="center">
-<a href="https://www.paypal.me/eliotmasset"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github soundZone"/>
+<a href="https://www.paypal.me/eliotmasset"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github 2048"/>
 </a>
 </p>
 
